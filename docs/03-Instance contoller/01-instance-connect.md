@@ -6,7 +6,7 @@ sidebar_position: 1
 
 | Method | Endpoint                                  |
 | ------ | ----------------------------------------- |
-| GET    | [baseUrl]/instance/connect[instance] |
+| GET    | [baseUrl]/instance/connect/[instance] |
 
 ### Data to be sent in the Request
 
